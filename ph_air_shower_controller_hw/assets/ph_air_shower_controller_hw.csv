@@ -1,0 +1,88 @@
+"CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI
+103/23 Nguyễn Hữu Dật, P. Tây Thạnh, Q. Tân Phú, TP.HCM
+Tel: 08.38156268 - Fax: 08.38156441",,,,,,,,
+,,BILL OF MATERIAL for ph_pcr_cabinet_controller,,,,Picture of assembly,,
+,,Product Name:,,ph_pcr_cabinet_controller,,,,
+,,Assembly Name:,,,,,,
+,,Assembly Number:,,,,,,
+,,Part count:,,175,,,,
+,,Total cost:,,421510,,,,
+,,,,,,,,
+LINH KIỆN ĐIỆN TỬ,,,,,,,,
+STT,Tên linh kiện,Vị trí linh kiện,Giá trị,Kiểu chân,Số lượng,Đơn giá (VNĐ),Thành tiền (VNĐ),Link Mua hàng
+1,Pin-cr1220-3v,BT1,CR1220-3V,CR1220,1,1900,1900,https://thegioiic.com/products/pin-cr1220-3v 
+2,Đế Pin CR1220 SMD,BT1 Holder,CR1220,CR1220-SMD,1,1900,1900,https://thegioiic.com/products/de-pin-cr1220-smd 
+3,Tụ Tantalum 10UF 10V 1206,"C5, C19, ",10uF,C_1206_3216Metric,2,1300,2600,https://thegioiic.com/products/tu-tantalum-10uf-10v-1206-taja106m010rnj 
+4,Tụ Nhôm 47uF 16V,"C6, ",47uF,CP_Elec_8x10.5,1,1500,1500,https://banlinhkien.com/tu-nhom-47uf-16v-p6646153.html 
+5,Tụ 33pF 50V 0805,"C9, ",33pF,C_0805_2012Metric,1,200,200,https://thegioiic.com/products/tu-33pf-50v-0805 
+6,Tụ Nhôm SMD 100UF 50V,"C10, C3, ",100uF,CP_Elec_8x10.5,2,1300,2600,https://thegioiic.com/products/tu-nhom-smd-100uf-50v-d8l10 
+7,Tụ Tantalum 106C-10UF 16V SMD3528,"C12, ",10uF,C_0805_2012Metric,1,2500,2500,https://banlinhkien.com/tu-tantalum-106c10uf-16v-smd3528-p6650488.html 
+8,Tụ 1uF 50V 0805,"C18, ",1uF,C_0805_2012Metric,1,400,400,https://thegioiic.com/products/tu-1uf-50v-0805 
+9,Tụ 20pF 50V 0805,"C26, C27, ",20pF,C_0805_2012Metric,2,200,400,https://thegioiic.com/products/tu-20pf-50v-0805 
+10,Tụ 10pF 50V 0805,"C32, C31, ",10pF,C_0805_2012Metric,2,210,420,https://thegioiic.com/products/tu-10pf-50v-0805 
+11,Tụ Tantalum 475C-4.7uF 16V SMD3216,"C37, ",4.7uF,CP_EIA-3216,1,1500,1500,https://banlinhkien.com/tu-tantalum-475c4.7uf-16v-smd3216-p6646169.html 
+12,Tụ 10nF 50V 0805,"C38, ",10nF,C_0805_2012Metric,1,200,200,https://thegioiic.com/products/tu-10nf-50v-0805 
+13,Tụ 100nF (0.1uF) 50V 0805,"C40, C41, C43, C42, C8, C7, C11, C4, C1, C14, C28, C33, C34, C35, C36, C2, C39, C30, C23, C13, C22, C21, C20, C25, C24, C15, C29, C44, C16, C48, C49, C45, C46, ",100nF,C_0805_2012Metric,33,300,9900,https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805 
+14,Tụ Tantalum 475C-4.7uF 16V SMD3216,"C47, ",4.7uF,C_1206_3216Metric,1,1500,1500,https://banlinhkien.com/tu-tantalum-475c4.7uf-16v-smd3216-p6646169.html 
+15,1N4007-M7 Diode Chỉnh Lưu 1A 1KV,"D1, ",D_ALT,D_SMB,1,1000,1000,https://thegioiic.com/products/1n4007-m7-diode-chinh-luu-1a-1kv 
+16,TVS DIODE 36V 58.1V DO214AA,"D2, ",D_TVS_ALT,D_SMA,1,900,900,https://thegioiic.com/products/smbj36ca 
+17,LED Đỏ 0805,"D3, ",LED,LED_0805_2012Metric,1,230,230,https://thegioiic.com/products/led-do-0805 
+18,DIODE SCHOTTKY 3A 40V SMA,"D4, ",D_Schottky,D_SMA,1,600,600,https://thegioiic.com/products/ss34-sma 
+19,Diode T7 SOD123 ,"D5, ",D_ALT,SOD-80,1,500,500,https://banlinhkien.com/diode-t7-sod123-1n4007-sod123-10c-p16398844.html 
+20,LED_ALT-Device,"D6, D14, ",LED_STATUS,LED_0805_2012Metric,2,290,580,https://thegioiic.com/products/led-xanh-duong-0805 
+21,Diode T7 SOD123 ,"D7, ",DIODE,D_1210_3225Metric,1,500,500,https://banlinhkien.com/diode-t7-sod123-1n4007-sod123-10c-p16398844.html 
+22,Diode Zener 1/2W 12V SMD1206,"D8, D9, D11, D10, D12, D13, ",12V,SOD-80,6,300,1800,https://banlinhkien.com/diode-zener-12w-12v-smd1206-zmm12-10c-p16838193.html 
+23,Cầu Chì Tự Phục Hồi 2A 24V SMD1812,"F1, ",Fuse,Fuse_SMD1812,1,3500,3500,https://banlinhkien.com/cau-chi-tu-phuc-hoi-2a-24v-smd1812-p8232216.html 
+24,TSOP1738 LED Thu Hồng Ngoại,"IR1, ",HS0038A2,HS0038A2,1,14500,14500,https://thegioiic.com/products/tsop1738-led-thu-hong-ngoai 
+25,2P-KF142R Terminal Block Nằm Ngang 2 Chân 5.08,"J1, J2, ",Conn_01x02,TerminalBlock_WAGO-236_2Stift_R5mm_2pol,2,3100,6200,https://thegioiic.com/products/2p-kf142r-terminal-block-nam-ngang-2-chan-5-08 
+26,Hàng Rào 2.54 Đực Đơn 1x40Pin Cao 11.4mm,"J5, J3, ",Conn_01x04,Pin_Header_Straight_1x04_Pitch2.54mm,2,800,1600,https://thegioiic.com/products/hang-rao-2-54-duc-don-1x40pin-cao-11-4mm 
+27,Header 10P XH2.54-10P Đực Thẳng,"J6, ",Conn_01x10,PinSocket_1x10_P2.54mm_Vertical,1,1000,1000,https://banlinhkien.com/header-10p-xh2.5410p-duc-thang-p6649677.html 
+28,6P-KF141R Terminal Block Nằm Ngang 6 Chân 2.54,"J8, J7, J4, ",Conn_01x06,TerminalBlock_WAGO_2.54mm_6P,3,7700,23100,https://thegioiic.com/products/6p-kf141r-terminal-block-nam-ngang-6-chan-2-54 
+29,LT54-101M,"L1, ",L,Inductor_5.2x5.8x4.5,1,3200,3200,http://www.tme.vn/Product.aspx?id=1785#page=pro_info 
+30,CB2012D300ST (30 Ohm SMD-0805 Chip Ferrite Bead),"L2, ",30R,L_0805_2012Metric,1,1000,1000,http://www.tme.vn/Product.aspx?id=1878#page=pro_info 
+31,LCD 12864 Xanh Dương,"LCD1, ",ST7920,ST7920,1,150000,150000,https://nshopvn.com/product/lcd-12864-xanh-duong/ 
+32,1209 DIP Buzzer 12x9mm,"LS1, ",Speaker,Buzzer_15x7.5RM7.6,1,3200,3200,https://thegioiic.com/products/1209-dip-buzzer-12x9mm
+33,Cổng USB-Micro-B Đầu Cái 5Pin SMD V3,"P1, ",USB_OTG,USB_Micro-B,1,1000,1000,https://thegioiic.com/products/cong-usb-micro-b-dau-cai-5pin-smd-v3 
+34,2SC1815-HF,"Q1, Q4, Q7, ",C1815,SOT-23,3,300,900,https://thegioiic.com/products/2sc1815-hf 
+35,LN2302LT1G-N-Channel MOSFET,"Q2, Q3, Q5, Q6, Q8, Q9, ",LN2302,SOT-23,6,2000,12000,https://thegioiic.com/products/ln2302lt1g 
+36,R-Device,"R1, ",0.15,R_1206_3216Metric,1,200,200,http://www.tme.vn/Product.aspx?id=1887&CateId=441#page=pro_info 
+37,Điện Trở 100 Ohm 0805 5%,"R4, R6, R7, R10, ",100R,R_0805_2012Metric,4,40,160,https://thegioiic.com/products/dien-tro-100-ohm-0805-5 
+38,Điện Trở 20K Ohm 0805 5%,"R5, R18, ",20k,R_0805_2012Metric,2,40,80,https://thegioiic.com/products/dien-tro-20k-ohm-0805-5 
+39,Điện Trở 3K Ohm 0805 5%,"R9, ",3k,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-3k-ohm-0805-5 
+40,Điện Trở 1K Ohm 0805 5%,"R11, R19, R33, ",1k,R_0805_2012Metric,3,40,120,https://thegioiic.com/products/dien-tro-1k-ohm-0805-5 
+41,Điện Trở 2.2K Ohm 0805 5%,"R12, R17, R31, R38, ",2.2k,R_0805_2012Metric,4,40,160,https://thegioiic.com/products/dien-tro-2-2k-ohm-0805-5 
+42,Điện Trở 220 Ohm 0805 1%,"R14, R15, R16, ",220R,R_0805_2012Metric,3,50,150,https://thegioiic.com/products/dien-tro-220-ohm-0805-1 
+43,Điện Trở 22 Ohm 0805 5%,"R21, R20, ",22R,R_0805_2012Metric,2,40,80,https://thegioiic.com/products/dien-tro-22-ohm-0805-5 
+44,Điện Trở 1.5K Ohm 0805 5%,"R22, ",1.5k,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-1-5k-ohm-0805-5 
+45,Điện Trở 220 Ohm 0805 1%,"R25, ",220R,R_0805_2012Metric,1,50,50,https://thegioiic.com/products/dien-tro-220-ohm-0805-1 
+46,Điện Trở 100 Ohm 0805 5%,"R43, ",100R,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-100-ohm-0805-5 
+47,Điện Trở 4.7K Ohm 0805 5%,"R45, ",4.7K,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-4-7k-ohm-0805-5 
+48,Điện Trở 4.7K Ohm 0805 5%,"R47, R49, R51, R8, R53, R63, R55, R57, ",4.7k,R_0805_2012Metric,8,50,400,https://thegioiic.com/products/dien-tro-4-7k-ohm-0805-5 
+49,Điện Trở 10K Ohm 0805 5%,"R48, R50, R54, R52, R2, R3, R13, R24, R39, R40, R41, R42, R32, R26, R27, R28, R29, R30, R34, R35, R36, R37, R44, R46, R61, R56, R58, ",10k,R_0805_2012Metric,27,40,1080,https://thegioiic.com/products/dien-tro-10k-ohm-0805-5 
+50,Điện Trở 0 Ohm 0805 5%,"R59, R23, ",0R,R_0805_2012Metric,2,40,80,https://thegioiic.com/products/dien-tro-0-ohm-0805-5 
+51,Điện Trở 470K Ohm 0805 5%,"R60, ",470k,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-470k-ohm-0805-5 
+52,Điện Trở 330 Ohm 0805 5%,"R62, ",330R,R_0805_2012Metric,1,40,40,https://thegioiic.com/products/dien-tro-330-ohm-0805-5 
+53,Điện Trở Mạng 4 x 0603 10KOhm 5%,"RN1, RN2, ",10k,R_Array_Convex_4x0603,2,340,680,https://thegioiic.com/products/dien-tro-mang-4-x-0603-10kohm-5 
+54,3296W-103 Biến Trở 10K Ohm Tinh Chỉnh Top,"RV1, ",R_POT,VR1,1,1700,1700,https://thegioiic.com/products/3296w-103-bien-tro-10k-ohm-tinh-chinh-top 
+55,Nút Nhấn 2 Chân 3x6x2.5MM SMD,"SW1, ",RESET,Button_SW_2PIN,1,1000,1000,https://banlinhkien.com/nut-nhan-2-chan-3x6x2.5mm-smd-p6651008.html 
+56,Nút Nhấn 12x12 Cao 12mm 4Pin Xuyên Lỗ,"SW2, SW3, SW4, SW5, ",SW_Push,SW_PUSH-12mm,4,850,3400,https://thegioiic.com/products/nut-nhan-12x12-cao-12mm-4pin-xuyen-lo
+57,W25Q80BV SOP8 IC FLASH 8MBIT,"U1, ",W25Q80BV,SOIC-8_3.9x4.9mm_Pitch1.27mm,1,8000,8000,https://banlinhkien.com/w25q80bv-sop8-ic-flash-8mbit-p13021016.html 
+58,MC34063AD,"U2, ",MC34063,SOIC-8_3.9x4.9mm_Pitch1.27mm,1,8000,8000,http://tme.vn/Product.aspx?id=1474#page=pro_info
+59,MAX485CSA+T,"U3, ",MAX485,SOIC-8_3.9x4.9mm_Pitch1.27mm,1,13000,13000,https://thegioiic.com/products/max485csa-t 
+60,AMS1117-3.3V,"U4, ",ASM1117,SOT-223,1,1500,1500,https://thegioiic.com/products/ams1117-3-3v 
+61,STM32F103RBT6,"U7, ",STM32F103RBT6,LQFP-64_10x10mm_Pitch0.5mm,1,66000,66000,http://www.tme.vn/Product.aspx?id=1836#page=pro_info
+62,74HC245D IC TRANSCVR TRI-ST 8BIT 20SOIC,"U8, ",74HC245,TSSOP-20_4.4x6.5mm_Pitch0.65mm,1,4000,4000,https://thegioiic.com/products/74hc245d 
+63,PC817X2NIP0F-OPTOISOLATOR 5KV TRANS 4SMD,"U9, U10, U13, U12, U14, U15, ",PC817,Optocoupler_SMD,6,2500,15000,https://thegioiic.com/products/pc817x2nip0f 
+64,ULN2803 SOP18,"U11, ",ULN2803A,SOIC-18W_7.5x11.6mm_Pitch1.27mm,1,11000,11000,https://thegioiic.com/products/uln2803adwr 
+65,DS18B20,"U16, ",DS18B20,TO-92_Inline_Horizontal2,1,16000,16000,https://thegioiic.com/products/ds18b20-cam-bien-nhiet-do-so
+66,Thạch Anh 8Mhz Crystal HC49 SMD,"Y1, ",8Mhz,Crystal_SMD_HC49-SD,1,1400,1400,https://thegioiic.com/products/thach-anh-8mhz-crystal-hc49-smd 
+67,Thạch Anh 32.768kHz 3x8,"Y2, ",32768Khz,Crystal_Round_Horizontal_3mm_smd,1,1200,1200,https://thegioiic.com/products/thach-anh-32-768khz-3x8 
+,,,,,,,,
+,TỔNG THÀNH TIỀN,,,,,,409510,
+,,,,,,,,
+,,VẬT TƯ KHÁC,,,,,,
+,,STT,Tên vật tư,Mô tả,Số lượng,Đơn giá,Thành tiền,Nhà cung cấp
+,,1,PCB Controller (150mmx100mm),,1,,0,https://cxt.vn/
+,,2,Decal PCR,,1,,0,http://phimdientu.vn/
+,,3,Dây bus 10-2.54,Kết nối board controller với board relay,1,12000,12000,https://thegioiic.com/products?utf8=%E2%9C%93&search=D%C3%A2y+Bus+10Pin+C%C3%A1i+XH2.54
+,,TỔNG THÀNH TIỀN,,,,,12000,
