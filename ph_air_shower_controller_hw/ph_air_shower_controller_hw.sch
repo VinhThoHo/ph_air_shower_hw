@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:ph_air_shower_controller_hw-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
@@ -2858,12 +2858,8 @@ Wire Wire Line
 	12475 6075 12950 6075
 Wire Wire Line
 	12475 7575 12800 7575
-Text Label 12800 7575 2    50   ~ 0
-I2C1_SDA
 Wire Wire Line
 	12475 7475 12800 7475
-Text Label 12800 7475 2    50   ~ 0
-I2C1_SCL
 Wire Wire Line
 	11725 4350 11700 4350
 $Comp
@@ -3703,182 +3699,6 @@ F 3 "" H 9975 4225 50  0001 C CNN
 	1    9975 4225
 	1    0    0    -1  
 $EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:SM5852-ATSH_lib_hw-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue U5
-U 1 1 6643B18E
-P 15750 4075
-F 0 "U5" H 15750 4460 48  0000 C CNN
-F 1 "SM5852" H 15750 4372 48  0000 C CNN
-F 2 "VinhTho_Lib:SM5852" H 15650 4525 106 0001 C CNN
-F 3 "" H 15650 4525 106 0001 C CNN
-	1    15750 4075
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR041
-U 1 1 66445C0D
-P 15350 3825
-F 0 "#PWR041" H 15350 3675 50  0001 C CNN
-F 1 "+5V" H 15365 3998 50  0000 C CNN
-F 2 "" H 15350 3825 50  0001 C CNN
-F 3 "" H 15350 3825 50  0001 C CNN
-	1    15350 3825
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15350 3825 15350 3925
-Wire Wire Line
-	15350 3925 15425 3925
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR057
-U 1 1 664D1FDF
-P 15350 4300
-F 0 "#PWR057" H 15350 4050 50  0001 C CNN
-F 1 "GND" H 15355 4127 50  0000 C CNN
-F 2 "" H 15350 4300 50  0001 C CNN
-F 3 "" H 15350 4300 50  0001 C CNN
-	1    15350 4300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15350 4300 15350 4225
-Wire Wire Line
-	15350 4225 15425 4225
-NoConn ~ 15425 4025
-NoConn ~ 15425 4125
-NoConn ~ 16075 3925
-NoConn ~ 16075 4225
-$Comp
-L ph_air_shower_controller_hw-rescue:C-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue C15
-U 1 1 66C9266E
-P 15125 4075
-F 0 "C15" H 14900 4100 50  0000 L CNN
-F 1 "100nF" H 14850 4000 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15163 3925 50  0001 C CNN
-F 3 "~" H 15125 4075 50  0001 C CNN
-	1    15125 4075
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR042
-U 1 1 66C93DC2
-P 15125 3850
-F 0 "#PWR042" H 15125 3700 50  0001 C CNN
-F 1 "+5V" H 15140 4023 50  0000 C CNN
-F 2 "" H 15125 3850 50  0001 C CNN
-F 3 "" H 15125 3850 50  0001 C CNN
-	1    15125 3850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15125 3850 15125 3925
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR056
-U 1 1 66D23BDC
-P 15125 4300
-F 0 "#PWR056" H 15125 4050 50  0001 C CNN
-F 1 "GND" H 15130 4127 50  0000 C CNN
-F 2 "" H 15125 4300 50  0001 C CNN
-F 3 "" H 15125 4300 50  0001 C CNN
-	1    15125 4300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15125 4300 15125 4225
-Text Label 16150 4025 0    48   ~ 0
-SDA1
-Text Label 16150 4125 0    48   ~ 0
-SCL1
-$Comp
-L ph_air_shower_controller_hw-rescue:SM5852-ATSH_lib_hw-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue U6
-U 1 1 66E51AAA
-P 15750 6150
-F 0 "U6" H 15750 6535 48  0000 C CNN
-F 1 "SM5852" H 15750 6447 48  0000 C CNN
-F 2 "VinhTho_Lib:SM5852" H 15650 6600 106 0001 C CNN
-F 3 "" H 15650 6600 106 0001 C CNN
-	1    15750 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR085
-U 1 1 66E51AB0
-P 15350 5900
-F 0 "#PWR085" H 15350 5750 50  0001 C CNN
-F 1 "+5V" H 15365 6073 50  0000 C CNN
-F 2 "" H 15350 5900 50  0001 C CNN
-F 3 "" H 15350 5900 50  0001 C CNN
-	1    15350 5900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15350 5900 15350 6000
-Wire Wire Line
-	15350 6000 15425 6000
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR090
-U 1 1 66E51AB8
-P 15350 6375
-F 0 "#PWR090" H 15350 6125 50  0001 C CNN
-F 1 "GND" H 15355 6202 50  0000 C CNN
-F 2 "" H 15350 6375 50  0001 C CNN
-F 3 "" H 15350 6375 50  0001 C CNN
-	1    15350 6375
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15350 6375 15350 6300
-Wire Wire Line
-	15350 6300 15425 6300
-NoConn ~ 15425 6100
-NoConn ~ 15425 6200
-NoConn ~ 16075 6000
-NoConn ~ 16075 6300
-$Comp
-L ph_air_shower_controller_hw-rescue:C-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue C29
-U 1 1 66E51AE4
-P 15125 6150
-F 0 "C29" H 14900 6175 50  0000 L CNN
-F 1 "100nF" H 14850 6075 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15163 6000 50  0001 C CNN
-F 3 "~" H 15125 6150 50  0001 C CNN
-	1    15125 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR086
-U 1 1 66E51AEA
-P 15125 5925
-F 0 "#PWR086" H 15125 5775 50  0001 C CNN
-F 1 "+5V" H 15140 6098 50  0000 C CNN
-F 2 "" H 15125 5925 50  0001 C CNN
-F 3 "" H 15125 5925 50  0001 C CNN
-	1    15125 5925
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15125 5925 15125 6000
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR089
-U 1 1 66E51AF1
-P 15125 6375
-F 0 "#PWR089" H 15125 6125 50  0001 C CNN
-F 1 "GND" H 15130 6202 50  0000 C CNN
-F 2 "" H 15125 6375 50  0001 C CNN
-F 3 "" H 15125 6375 50  0001 C CNN
-	1    15125 6375
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15125 6375 15125 6300
-Text Label 16150 6100 0    48   ~ 0
-SDA2
-Text Label 16150 6200 0    48   ~ 0
-SCL2
-Text Label 12900 7875 2    48   ~ 0
-I2C2_SCL
-Text Label 12900 7975 2    48   ~ 0
-I2C2_SDA
 NoConn ~ 5130 3600
 NoConn ~ 2125 4200
 $Comp
@@ -3978,374 +3798,6 @@ Wire Wire Line
 	6150 15250 6150 15175
 NoConn ~ 12475 6975
 NoConn ~ 8075 6675
-$Comp
-L ph_air_shower_controller_hw-rescue:Q_NMOS_GSD-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue Q2
-U 1 1 5D9586CA
-P 15275 5075
-F 0 "Q2" V 15526 5075 50  0000 C CNN
-F 1 "LN2302" V 15617 5075 50  0000 C CNN
-F 2 "nhantt-kicad-lib:SOT-23" H 15475 5175 50  0001 C CNN
-F 3 "~" H 15275 5075 50  0001 C CNN
-	1    15275 5075
-	0    -1   1    0   
-$EndComp
-Wire Wire Line
-	15475 5175 15550 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR076
-U 1 1 5DAF72CF
-P 15275 4825
-F 0 "#PWR076" H 15275 4675 50  0001 C CNN
-F 1 "+3.3V" H 15290 4998 50  0000 C CNN
-F 2 "" H 15275 4825 50  0001 C CNN
-F 3 "" H 15275 4825 50  0001 C CNN
-	1    15275 4825
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15275 4825 15275 4875
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R27
-U 1 1 5DC8D8B7
-P 14975 4975
-F 0 "R27" V 14875 4925 50  0000 L CNN
-F 1 "10k" V 14975 4900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14905 4975 50  0001 C CNN
-F 3 "~" H 14975 4975 50  0001 C CNN
-	1    14975 4975
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14975 5125 14975 5175
-Wire Wire Line
-	14975 5175 15075 5175
-Wire Wire Line
-	14975 5175 14750 5175
-Connection ~ 14975 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR072
-U 1 1 5DE24537
-P 14975 4775
-F 0 "#PWR072" H 14975 4625 50  0001 C CNN
-F 1 "+5V" H 14990 4948 50  0000 C CNN
-F 2 "" H 14975 4775 50  0001 C CNN
-F 3 "" H 14975 4775 50  0001 C CNN
-	1    14975 4775
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14975 4775 14975 4825
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R28
-U 1 1 5DEAD0E4
-P 15550 4975
-F 0 "R28" V 15450 4925 50  0000 L CNN
-F 1 "10k" V 15550 4900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 15480 4975 50  0001 C CNN
-F 3 "~" H 15550 4975 50  0001 C CNN
-	1    15550 4975
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15550 5125 15550 5175
-Connection ~ 15550 5175
-Wire Wire Line
-	15550 5175 15775 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR073
-U 1 1 5DF35705
-P 15550 4775
-F 0 "#PWR073" H 15550 4625 50  0001 C CNN
-F 1 "+3.3V" H 15565 4948 50  0000 C CNN
-F 2 "" H 15550 4775 50  0001 C CNN
-F 3 "" H 15550 4775 50  0001 C CNN
-	1    15550 4775
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15550 4775 15550 4825
-Wire Wire Line
-	16075 4025 16150 4025
-Wire Wire Line
-	16075 4125 16150 4125
-Text Label 14750 5175 2    50   ~ 0
-SDA1
-Text Label 15775 5175 0    48   ~ 0
-I2C1_SDA
-$Comp
-L ph_air_shower_controller_hw-rescue:Q_NMOS_GSD-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue Q3
-U 1 1 5E2F35C4
-P 16950 5075
-F 0 "Q3" V 17201 5075 50  0000 C CNN
-F 1 "LN2302" V 17292 5075 50  0000 C CNN
-F 2 "nhantt-kicad-lib:SOT-23" H 17150 5175 50  0001 C CNN
-F 3 "~" H 16950 5075 50  0001 C CNN
-	1    16950 5075
-	0    -1   1    0   
-$EndComp
-Wire Wire Line
-	17150 5175 17225 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR077
-U 1 1 5E2F35CB
-P 16950 4825
-F 0 "#PWR077" H 16950 4675 50  0001 C CNN
-F 1 "+3.3V" H 16965 4998 50  0000 C CNN
-F 2 "" H 16950 4825 50  0001 C CNN
-F 3 "" H 16950 4825 50  0001 C CNN
-	1    16950 4825
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16950 4825 16950 4875
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R29
-U 1 1 5E2F35D2
-P 16650 4975
-F 0 "R29" V 16550 4925 50  0000 L CNN
-F 1 "10k" V 16650 4900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 16580 4975 50  0001 C CNN
-F 3 "~" H 16650 4975 50  0001 C CNN
-	1    16650 4975
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16650 5125 16650 5175
-Wire Wire Line
-	16650 5175 16750 5175
-Wire Wire Line
-	16650 5175 16425 5175
-Connection ~ 16650 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR074
-U 1 1 5E2F35DC
-P 16650 4775
-F 0 "#PWR074" H 16650 4625 50  0001 C CNN
-F 1 "+5V" H 16665 4948 50  0000 C CNN
-F 2 "" H 16650 4775 50  0001 C CNN
-F 3 "" H 16650 4775 50  0001 C CNN
-	1    16650 4775
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16650 4775 16650 4825
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R30
-U 1 1 5E2F35E3
-P 17225 4975
-F 0 "R30" V 17125 4925 50  0000 L CNN
-F 1 "10k" V 17225 4900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 17155 4975 50  0001 C CNN
-F 3 "~" H 17225 4975 50  0001 C CNN
-	1    17225 4975
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	17225 5125 17225 5175
-Connection ~ 17225 5175
-Wire Wire Line
-	17225 5175 17450 5175
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR075
-U 1 1 5E2F35EC
-P 17225 4775
-F 0 "#PWR075" H 17225 4625 50  0001 C CNN
-F 1 "+3.3V" H 17240 4948 50  0000 C CNN
-F 2 "" H 17225 4775 50  0001 C CNN
-F 3 "" H 17225 4775 50  0001 C CNN
-	1    17225 4775
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	17225 4775 17225 4825
-Text Label 16425 5175 2    50   ~ 0
-SCL1
-Text Label 17450 5175 0    48   ~ 0
-I2C1_SCL
-$Comp
-L ph_air_shower_controller_hw-rescue:Q_NMOS_GSD-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue Q5
-U 1 1 5E41D910
-P 15250 7325
-F 0 "Q5" V 15501 7325 50  0000 C CNN
-F 1 "LN2302" V 15592 7325 50  0000 C CNN
-F 2 "nhantt-kicad-lib:SOT-23" H 15450 7425 50  0001 C CNN
-F 3 "~" H 15250 7325 50  0001 C CNN
-	1    15250 7325
-	0    -1   1    0   
-$EndComp
-Wire Wire Line
-	15450 7425 15525 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0101
-U 1 1 5E41D917
-P 15250 7075
-F 0 "#PWR0101" H 15250 6925 50  0001 C CNN
-F 1 "+3.3V" H 15265 7248 50  0000 C CNN
-F 2 "" H 15250 7075 50  0001 C CNN
-F 3 "" H 15250 7075 50  0001 C CNN
-	1    15250 7075
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15250 7075 15250 7125
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R34
-U 1 1 5E41D91E
-P 14950 7225
-F 0 "R34" V 14850 7175 50  0000 L CNN
-F 1 "10k" V 14950 7150 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14880 7225 50  0001 C CNN
-F 3 "~" H 14950 7225 50  0001 C CNN
-	1    14950 7225
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14950 7375 14950 7425
-Wire Wire Line
-	14950 7425 15050 7425
-Wire Wire Line
-	14950 7425 14725 7425
-Connection ~ 14950 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR097
-U 1 1 5E41D928
-P 14950 7025
-F 0 "#PWR097" H 14950 6875 50  0001 C CNN
-F 1 "+5V" H 14965 7198 50  0000 C CNN
-F 2 "" H 14950 7025 50  0001 C CNN
-F 3 "" H 14950 7025 50  0001 C CNN
-	1    14950 7025
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14950 7025 14950 7075
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R35
-U 1 1 5E41D92F
-P 15525 7225
-F 0 "R35" V 15425 7175 50  0000 L CNN
-F 1 "10k" V 15525 7150 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 15455 7225 50  0001 C CNN
-F 3 "~" H 15525 7225 50  0001 C CNN
-	1    15525 7225
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15525 7375 15525 7425
-Connection ~ 15525 7425
-Wire Wire Line
-	15525 7425 15750 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR098
-U 1 1 5E41D938
-P 15525 7025
-F 0 "#PWR098" H 15525 6875 50  0001 C CNN
-F 1 "+3.3V" H 15540 7198 50  0000 C CNN
-F 2 "" H 15525 7025 50  0001 C CNN
-F 3 "" H 15525 7025 50  0001 C CNN
-	1    15525 7025
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15525 7025 15525 7075
-Text Label 14725 7425 2    50   ~ 0
-SDA2
-Text Label 15750 7425 0    48   ~ 0
-I2C2_SDA
-$Comp
-L ph_air_shower_controller_hw-rescue:Q_NMOS_GSD-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue Q6
-U 1 1 5E41D941
-P 16925 7325
-F 0 "Q6" V 17176 7325 50  0000 C CNN
-F 1 "LN2302" V 17267 7325 50  0000 C CNN
-F 2 "nhantt-kicad-lib:SOT-23" H 17125 7425 50  0001 C CNN
-F 3 "~" H 16925 7325 50  0001 C CNN
-	1    16925 7325
-	0    -1   1    0   
-$EndComp
-Wire Wire Line
-	17125 7425 17200 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0102
-U 1 1 5E41D948
-P 16925 7075
-F 0 "#PWR0102" H 16925 6925 50  0001 C CNN
-F 1 "+3.3V" H 16940 7248 50  0000 C CNN
-F 2 "" H 16925 7075 50  0001 C CNN
-F 3 "" H 16925 7075 50  0001 C CNN
-	1    16925 7075
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16925 7075 16925 7125
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R36
-U 1 1 5E41D94F
-P 16625 7225
-F 0 "R36" V 16525 7175 50  0000 L CNN
-F 1 "10k" V 16625 7150 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 16555 7225 50  0001 C CNN
-F 3 "~" H 16625 7225 50  0001 C CNN
-	1    16625 7225
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16625 7375 16625 7425
-Wire Wire Line
-	16625 7425 16725 7425
-Wire Wire Line
-	16625 7425 16400 7425
-Connection ~ 16625 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR099
-U 1 1 5E41D959
-P 16625 7025
-F 0 "#PWR099" H 16625 6875 50  0001 C CNN
-F 1 "+5V" H 16640 7198 50  0000 C CNN
-F 2 "" H 16625 7025 50  0001 C CNN
-F 3 "" H 16625 7025 50  0001 C CNN
-	1    16625 7025
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16625 7025 16625 7075
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R37
-U 1 1 5E41D960
-P 17200 7225
-F 0 "R37" V 17100 7175 50  0000 L CNN
-F 1 "10k" V 17200 7150 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 17130 7225 50  0001 C CNN
-F 3 "~" H 17200 7225 50  0001 C CNN
-	1    17200 7225
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	17200 7375 17200 7425
-Connection ~ 17200 7425
-Wire Wire Line
-	17200 7425 17425 7425
-$Comp
-L ph_air_shower_controller_hw-rescue:+3.3V-ph_mcu_base_board_datalogger_hw-cache-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0100
-U 1 1 5E41D969
-P 17200 7025
-F 0 "#PWR0100" H 17200 6875 50  0001 C CNN
-F 1 "+3.3V" H 17215 7198 50  0000 C CNN
-F 2 "" H 17200 7025 50  0001 C CNN
-F 3 "" H 17200 7025 50  0001 C CNN
-	1    17200 7025
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	17200 7025 17200 7075
-Text Label 16400 7425 2    50   ~ 0
-SCL2
-Text Label 17425 7425 0    48   ~ 0
-I2C2_SCL
-Wire Wire Line
-	16075 6100 16150 6100
-Wire Wire Line
-	16075 6200 16150 6200
 NoConn ~ 2125 3975
 $Comp
 L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0135
@@ -4493,192 +3945,8 @@ F 3 "" H 11925 4450 50  0001 C CNN
 	1    11925 4450
 	1    0    0    -1  
 $EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:HS0038A2-ATSH_lib_hw-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue IR1
-U 1 1 5DD74C7D
-P 14975 8400
-F 0 "IR1" H 15178 8351 50  0000 L CNN
-F 1 "HS0038A2" H 15178 8260 50  0000 L CNN
-F 2 "nhantt-kicad-lib:HS0038A2" H 14975 8600 50  0001 C CNN
-F 3 "https://html.alldatasheet.com/html-pdf/215919/VISHAY/HS0038A2/217/1/HS0038A2.html" H 14975 8600 50  0001 C CNN
-	1    14975 8400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14475 8600 14475 8500
-Wire Wire Line
-	14475 8900 14475 8975
-Wire Wire Line
-	14475 8975 14975 8975
-Wire Wire Line
-	14975 8975 14975 8675
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0111
-U 1 1 5E031660
-P 14475 8500
-F 0 "#PWR0111" H 14475 8350 50  0001 C CNN
-F 1 "+5V" H 14490 8673 50  0000 C CNN
-F 2 "" H 14475 8500 50  0001 C CNN
-F 3 "" H 14475 8500 50  0001 C CNN
-	1    14475 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0120
-U 1 1 5E03335E
-P 14475 9325
-F 0 "#PWR0120" H 14475 9075 50  0001 C CNN
-F 1 "GND" H 14480 9152 50  0000 C CNN
-F 2 "" H 14475 9325 50  0001 C CNN
-F 3 "" H 14475 9325 50  0001 C CNN
-	1    14475 9325
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R43
-U 1 1 5E035A50
-P 14475 8750
-F 0 "R43" V 14375 8700 50  0000 L CNN
-F 1 "100" V 14475 8675 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14405 8750 50  0001 C CNN
-F 3 "~" H 14475 8750 50  0001 C CNN
-	1    14475 8750
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:CP1-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue C37
-U 1 1 5E05E187
-P 14475 9125
-F 0 "C37" H 14590 9171 50  0000 L CNN
-F 1 "4.7uF" H 14590 9080 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 14475 9125 50  0001 C CNN
-F 3 "~" H 14475 9125 50  0001 C CNN
-	1    14475 9125
-	1    0    0    -1  
-$EndComp
-Connection ~ 14475 8975
-Wire Wire Line
-	14475 9325 14475 9275
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0112
-U 1 1 5E0F3E87
-P 14850 8725
-F 0 "#PWR0112" H 14850 8475 50  0001 C CNN
-F 1 "GND" H 14855 8552 50  0000 C CNN
-F 2 "" H 14850 8725 50  0001 C CNN
-F 3 "" H 14850 8725 50  0001 C CNN
-	1    14850 8725
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	14850 8725 14850 8675
 Wire Wire Line
 	12475 6875 12900 6875
-Text Label 12855 5275 2    50   ~ 0
-IR_rev
-Wire Wire Line
-	15100 8675 15100 8975
-Wire Wire Line
-	15100 8975 15425 8975
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R44
-U 1 1 5E29B53F
-P 15425 8750
-F 0 "R44" V 15325 8700 50  0000 L CNN
-F 1 "10k" V 15425 8675 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 15355 8750 50  0001 C CNN
-F 3 "~" H 15425 8750 50  0001 C CNN
-	1    15425 8750
-	1    0    0    1   
-$EndComp
-Wire Wire Line
-	15425 8475 15425 8600
-Wire Wire Line
-	15425 8900 15425 8975
-Connection ~ 15425 8975
-Wire Wire Line
-	15425 8975 15650 8975
-Text Label 16100 8975 2    50   ~ 0
-IR_rev
-$Comp
-L ph_air_shower_controller_hw-rescue:+5V-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0110
-U 1 1 5E3BB4C9
-P 15425 8475
-F 0 "#PWR0110" H 15425 8325 50  0001 C CNN
-F 1 "+5V" H 15440 8648 50  0000 C CNN
-F 2 "" H 15425 8475 50  0001 C CNN
-F 3 "" H 15425 8475 50  0001 C CNN
-	1    15425 8475
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R45
-U 1 1 5E447C3A
-P 15800 8975
-F 0 "R45" V 15700 8925 50  0000 L CNN
-F 1 "4.7K" V 15800 8900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 15730 8975 50  0001 C CNN
-F 3 "~" H 15800 8975 50  0001 C CNN
-	1    15800 8975
-	0    -1   1    0   
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R46
-U 1 1 5E44C13A
-P 16100 9200
-F 0 "R46" V 16000 9150 50  0000 L CNN
-F 1 "10k" V 16100 9125 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 16030 9200 50  0001 C CNN
-F 3 "~" H 16100 9200 50  0001 C CNN
-	1    16100 9200
-	-1   0    0    -1  
-$EndComp
-Wire Wire Line
-	16100 9050 16100 8975
-Wire Wire Line
-	16100 8975 15950 8975
-Wire Wire Line
-	16100 9400 16100 9350
-$Comp
-L ph_air_shower_controller_hw-rescue:C-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue C38
-U 1 1 5E572C3E
-P 16350 9175
-F 0 "C38" H 16465 9221 50  0000 L CNN
-F 1 "10nF" H 16465 9130 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16388 9025 50  0001 C CNN
-F 3 "~" H 16350 9175 50  0001 C CNN
-	1    16350 9175
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16350 9025 16350 8975
-Wire Wire Line
-	16350 8975 16100 8975
-Connection ~ 16100 8975
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0121
-U 1 1 5E4DE489
-P 16100 9400
-F 0 "#PWR0121" H 16100 9150 50  0001 C CNN
-F 1 "GND" H 16105 9227 50  0000 C CNN
-F 2 "" H 16100 9400 50  0001 C CNN
-F 3 "" H 16100 9400 50  0001 C CNN
-	1    16100 9400
-	1    0    0    -1  
-$EndComp
-$Comp
-L ph_air_shower_controller_hw-rescue:GND-power-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue #PWR0122
-U 1 1 5E7AAC25
-P 16350 9400
-F 0 "#PWR0122" H 16350 9150 50  0001 C CNN
-F 1 "GND" H 16355 9227 50  0000 C CNN
-F 2 "" H 16350 9400 50  0001 C CNN
-F 3 "" H 16350 9400 50  0001 C CNN
-	1    16350 9400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16350 9400 16350 9325
 Wire Wire Line
 	7450 2025 7450 2075
 Wire Wire Line
@@ -4772,7 +4040,7 @@ $EndComp
 Wire Wire Line
 	4730 3900 4730 3950
 $Comp
-L power:GND #PWR0149
+L ph_air_shower_controller_hw-rescue:GND-power #PWR0149
 U 1 1 5D8331AE
 P 5150 13325
 F 0 "#PWR0149" H 5150 13075 50  0001 C CNN
@@ -4822,7 +4090,7 @@ Wire Wire Line
 Wire Wire Line
 	7195 9995 7195 9955
 $Comp
-L power:GND #PWR0151
+L ph_air_shower_controller_hw-rescue:GND-power #PWR0151
 U 1 1 5E4C5C67
 P 7195 9995
 F 0 "#PWR0151" H 7195 9745 50  0001 C CNN
@@ -4910,7 +4178,7 @@ $EndComp
 Wire Wire Line
 	6610 10010 6610 9965
 $Comp
-L power:GND #PWR0152
+L ph_air_shower_controller_hw-rescue:GND-power #PWR0152
 U 1 1 5E1CA544
 P 6610 10010
 F 0 "#PWR0152" H 6610 9760 50  0001 C CNN
@@ -4938,7 +4206,7 @@ Connection ~ 5675 10050
 Wire Wire Line
 	5675 10075 5675 10050
 $Comp
-L power:GND #PWR0153
+L ph_air_shower_controller_hw-rescue:GND-power #PWR0153
 U 1 1 5E0E836F
 P 5675 10075
 F 0 "#PWR0153" H 5675 9825 50  0001 C CNN
@@ -4999,7 +4267,7 @@ F 3 "" H 8275 8675 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR0154
+L ph_air_shower_controller_hw-rescue:VCC-power #PWR0154
 U 1 1 5E71235D
 P 2890 6155
 F 0 "#PWR0154" H 2890 6005 50  0001 C CNN
@@ -5010,7 +4278,7 @@ F 3 "" H 2890 6155 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VDD #PWR0155
+L ph_air_shower_controller_hw-rescue:VDD-power #PWR0155
 U 1 1 5E713126
 P 3010 6155
 F 0 "#PWR0155" H 3010 6005 50  0001 C CNN
@@ -5072,7 +4340,7 @@ F 3 "" H 7550 10370 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0157
+L ph_air_shower_controller_hw-rescue:GND-power #PWR0157
 U 1 1 5E18E019
 P 7550 10575
 F 0 "#PWR0157" H 7550 10325 50  0001 C CNN
@@ -5445,25 +4713,6 @@ F 3 "" H 1670 14970 50  0001 L CNN
 $EndComp
 Text Label 9795 10245 0    50   ~ 0
 DS18B20
-$Comp
-L ph_air_shower_controller_hw-rescue:R-Device-ph_main_atsh_hw-rescue-ph_main_atsh_hw-rescue-ph_biological_safety_class1_controller_hw-rescue R23
-U 1 1 5E5E1A6A
-P 12665 5175
-F 0 "R23" V 12565 5125 50  0000 C CNN
-F 1 "0R" V 12665 5175 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12595 5175 50  0001 C CNN
-F 3 "~" H 12665 5175 50  0001 C CNN
-	1    12665 5175
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	12515 5175 12475 5175
-Wire Wire Line
-	12475 5275 12855 5275
-Wire Wire Line
-	12855 5275 12855 5175
-Wire Wire Line
-	12855 5175 12815 5175
 Wire Wire Line
 	13670 4880 13580 4880
 Wire Wire Line
@@ -5616,7 +4865,7 @@ $EndComp
 Wire Wire Line
 	13500 4160 13670 4160
 $Comp
-L Connector_Generic:Conn_01x06 J8
+L ph_air_shower_controller_hw-rescue:Conn_01x06-Connector_Generic J8
 U 1 1 5F0FED0B
 P 13870 5480
 F 0 "J8" H 13788 4955 50  0000 C CNN
@@ -5627,7 +4876,7 @@ F 3 "~" H 13870 5480 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x06 J7
+L ph_air_shower_controller_hw-rescue:Conn_01x06-Connector_Generic J7
 U 1 1 5F10DE12
 P 13870 4880
 F 0 "J7" H 13788 4355 50  0000 C CNN
@@ -5638,7 +4887,7 @@ F 3 "~" H 13870 4880 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x06 J4
+L ph_air_shower_controller_hw-rescue:Conn_01x06-Connector_Generic J4
 U 1 1 5F10EAAE
 P 13870 4260
 F 0 "J4" H 13788 3735 50  0000 C CNN
@@ -5648,4 +4897,10 @@ F 3 "~" H 13870 4260 50  0001 C CNN
 	1    13870 4260
 	1    0    0    1   
 $EndComp
+NoConn ~ 12800 7475
+NoConn ~ 12800 7570
+NoConn ~ 12900 7875
+NoConn ~ 12900 7975
+NoConn ~ 12480 5175
+NoConn ~ 12475 5275
 $EndSCHEMATC
