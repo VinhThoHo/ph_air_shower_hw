@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ph_air_shower_relay_hw-rescue)(type Legacy)(uri ${KIPRJMOD}/ph_air_shower_relay_hw-rescue.lib)(options "")(descr ""))
+)
