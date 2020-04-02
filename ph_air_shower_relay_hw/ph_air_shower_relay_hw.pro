@@ -1,4 +1,4 @@
-update=16/03/2020 16:08:26
+update=02/04/2020 10:24:18
 version=1
 last_client=kicad
 [general]
@@ -12,10 +12,20 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=./
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ph_relay_hw.net
+LastNetListRead=ph_air_shower_relay_hw.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -37,8 +47,8 @@ ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=1
 ViaDrill2=0.5
-ViaDiameter3=1
-ViaDrill3=0.5
+ViaDiameter3=1.2
+ViaDrill3=0.6
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -258,13 +268,3 @@ uViaDrill=0.5
 dPairWidth=1
 dPairGap=1.05
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=./
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
