@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:\projects\2020\PH_GitLab\ph_air_shower_hw\ph_air_shower_controller_hw\ph_air_shower_controller_hw.sch)
-    (date "02/04/2020 16:49:43")
+    (date "03/04/2020 15:56:53")
     (tool "Eeschema (5.1.5)-3")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1008,7 +1008,7 @@
       (tstamp 6D6F138E))
     (comp (ref SW1)
       (value Button_TL3342_5.2x5.2)
-      (footprint ph_kicad_lib:BUTTON_TL3342)
+      (footprint vinhtho_lib:Button_SW_2PIN)
       (fields
         (field (name Desc) "5.2x5.2MM, H=1.5MM, Waterproof Tact Switch")
         (field (name Link) https://thegioiic.com/products/nut-nhan-4x4-cao-1-5mm-4pin-smd-chong-nuoc))

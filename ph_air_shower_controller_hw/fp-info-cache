@@ -1,722 +1,2038 @@
-162273587985356
-Capacitors_SMD
-CP_Elec_3x5.3
-SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
-Capacitor Electrolytic
+460140497353438
+vinhtho_lib
+2-pol
+
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_3x5.4
-SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm
-capacitor electrolytic
+vinhtho_lib
+4Pin-3.81mm
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+4
+4
+vinhtho_lib
+4056E_LiIon_loader
+
+
+0
+6
+6
+vinhtho_lib
+4056E_LiIon_loader_SMT
+
+
+0
+6
+6
+vinhtho_lib
+4056E_LiIon_loader_prot
+
+
+0
+6
+6
+vinhtho_lib
+16850_cell_casket
+
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x3
-SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm
-capacitor electrolytic
+vinhtho_lib
+AC-DC-5V-700mA
+
+
+0
+5
+5
+vinhtho_lib
+AI7688H-M
+
+
+0
+65
+65
+vinhtho_lib
+APM4953
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+vinhtho_lib
+Anten_GPS
+
+
+0
+5
+2
+vinhtho_lib
+Anten_GSM_IPEX
+
+
+0
+3
+2
+vinhtho_lib
+BARREL_JACK
+DC Barrel Jack
+Power Jack
+0
+3
+3
+vinhtho_lib
+BT3V3
+
+
+0
+4
+3
+vinhtho_lib
+BT3V3-none-hole
+
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x3.9
-SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm
-capacitor electrolytic
+vinhtho_lib
+Button-6mm-smd
+Light Touch Switch
+
+0
+4
+2
+vinhtho_lib
+Button_SW_2PIN
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x4.5
-SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm
-capacitor electrolytic
+vinhtho_lib
+C10807_Driver
+
+
+0
+8
+5
+vinhtho_lib
+CAPAE_6.3x7.7-M
+EEE-FK1C221P(SizeD8)
+220µF 16V Aluminum Capacitors Radial, Can - SMD 2000 Hrs @ 105°C
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x5.3
-SMD capacitor, aluminum electrolytic, Vishay, 4.0x5.3mm
-capacitor electrolytic
+vinhtho_lib
+CAPC0603x018M
+Capacitor SMD 0603, hand soldering
+capacitor 0603
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x5.4
-SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm
-capacitor electrolytic
+vinhtho_lib
+CAPC0805X024M
+Capacitor SMD 0805, hand soldering
+capacitor 0805
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x5.7
-SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm
-capacitor electrolytic
+vinhtho_lib
+CONN_PWR_JACK_25
+
+
+0
+3
+3
+vinhtho_lib
+CP_Axial_L29.0mm_D16.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=29*16mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 29mm diameter 16mm Electrolytic Capacitor
 0
 2
 2
-Capacitors_SMD
-CP_Elec_4x5.8
-SMD capacitor, aluminum electrolytic, Panasonic, 4.0x5.8mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x3
-SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x3.9
-SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x4.4
-SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x4.5
-SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.3
-SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.4
-SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.4mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.7
-SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.8
-SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.9
-SMD capacitor, aluminum electrolytic, Panasonic B6, 5.0x5.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x3
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x3.9
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x4.5
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x4.5mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x4.9
-SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.2
-SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.3
-SMD capacitor, aluminum electrolytic, Cornell Dubilier, 6.3x5.3mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.4
-SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.4_Nichicon
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.7
-SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.7mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.8
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.9
-SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
+vinhtho_lib
 CP_Elec_6.3x7.7
-SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
-capacitor electrolytic
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_6.3x9.9
-SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_8x5.4
-SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.2
-SMD capacitor, aluminum electrolytic, Nichicon, 8.0x6.2mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.5
-SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.7
-SMD capacitor, aluminum electrolytic, United Chemi-Con, 8.0x6.7mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.9
-SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
+vinhtho_lib
 CP_Elec_8x10
-SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
-capacitor electrolytic
+SMT capacitor, aluminium electrolytic, 8x10
+
 0
 2
 2
-Capacitors_SMD
+vinhtho_lib
 CP_Elec_8x10.5
-SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+SMT capacitor, aluminium electrolytic, 8x10.5
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_8x11.9
-SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_10x7.7
-SMD capacitor, aluminum electrolytic, Nichicon, 10.0x7.7mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_10x7.9
-SMD capacitor, aluminum electrolytic, Panasonic F8, 10.0x7.9mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
-CP_Elec_10x10
-SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
-capacitor electrolytic
-0
-2
-2
-Capacitors_SMD
+vinhtho_lib
 CP_Elec_10x10.5
-SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+SMT capacitor, aluminium electrolytic, 10x10.5
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_10x12.5
-SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.4mm Capacitor
 0
 2
 2
-Capacitors_SMD
-CP_Elec_10x12.6
-SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm
-capacitor electrolytic
+vinhtho_lib
+Conn_uSDcard
+
+
+0
+13
+9
+vinhtho_lib
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49-4H
 0
 2
 2
-Capacitors_SMD
-CP_Elec_10x14.3
-SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+Crystal_Round_Horizontal_2mm
+Crystal, Quarz, Rundgehaeuse, round, horizontal, liegend, Uhrenquarz, Diam. 2mm,
+Crystal Quarz Rundgehaeuse round horizontal liegend Uhrenquarz Diam. 2mm
 0
 2
 2
-Capacitors_SMD
-CP_Elec_16x17.5
-SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+Crystal_Round_Horizontal_3mm
+Crystal, Quarz, Rundgehaeuse, round, horizontal, liegend, Uhrenquarz, Diam. 3mm,
+Crystal Quarz Rundgehaeuse round horizontal liegend Uhrenquarz Diam. 3mm
+0
+3
+3
+vinhtho_lib
+Crystal_Round_Horizontal_3mm_smd
+Crystal, Quarz, Rundgehaeuse, round, horizontal, liegend, Uhrenquarz, Diam. 3mm,
+Crystal Quarz Rundgehaeuse round horizontal liegend Uhrenquarz Diam. 3mm
+0
+3
+3
+vinhtho_lib
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
 0
 2
 2
-Capacitors_SMD
-CP_Elec_16x22
-SMD capacitor, aluminum electrolytic, Vishay 1621, 16.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+Cx56-12
+4x7-segments, 14 mm, Kingbright CA56-12 and CC56-12 displays
+7-segments display
+0
+12
+12
+vinhtho_lib
+DB107S
+
+
+0
+4
+4
+vinhtho_lib
+DHT11
+
+
+0
+4
+4
+vinhtho_lib
+DIOC_0603X018
+Diode SMD in 0603 package
+smd diode
 0
 2
 2
-Capacitors_SMD
-CP_Elec_18x17.5
-SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+DIP-18_W7.62mm_Socket_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+18
+18
+vinhtho_lib
+DO-214AA
+
+
 0
 2
 2
-Capacitors_SMD
-CP_Elec_18x22
-SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
-capacitor electrolytic
+vinhtho_lib
+D_SMA_Standard
+Diode SMA
+Diode SMA
 0
 2
 2
-Capacitors_SMD
-C_0201_0603Metric
-Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+D_SMB_Handsoldering
+Diode SMB Handsoldering
+Diode SMB Handsoldering
+0
+2
+2
+vinhtho_lib
+D_SMB_Standard
+Diode SMB Standard
+Diode SMB Standard
+0
+2
+2
+vinhtho_lib
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+vinhtho_lib
+D_SOD-323F
+SOD-323
+SOD-323
+0
+2
+2
+vinhtho_lib
+Diode_Bridge_18.5x5.5
+Single phase bridge rectifier case 18.5x5.5
+Diode Bridge
+0
+4
+4
+vinhtho_lib
+Diodes_PSOP-8
+8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)
+SSOP 0.50 exposed pad
+0
+8
+8
+vinhtho_lib
+Domino-3.81-2pin
+
+
+0
+2
+2
+vinhtho_lib
+Domino-3.81-4pin
+
+
+0
+4
+4
+vinhtho_lib
+Domino-5.08mm_2pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+2
+2
+vinhtho_lib
+Domino-5.08mm_3pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+3
+3
+vinhtho_lib
+Domino-5.08mm_4pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+4
+4
+vinhtho_lib
+EFROMFLASH_8MBit
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+vinhtho_lib
+EI28-core
+
+
+0
+10
+10
+vinhtho_lib
+ESP-01
+Module, ESP-8266, ESP-01, 8 pin
+Module ESP-8266 ESP8266
+0
+8
+8
+vinhtho_lib
+ESP-03
+Module, ESP-8266, ESP-03, 14 pad, SMD
+Module ESP-8266 ESP8266
+0
+14
+14
+vinhtho_lib
+ESP-06
+
+
+0
+20
+20
+vinhtho_lib
+ESP-07v2
+Module, ESP-8266, ESP-07v2, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+vinhtho_lib
+ESP-12
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+vinhtho_lib
+ESP-12E_SMD
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+22
+22
+vinhtho_lib
+ESP-32S
+
+
+0
+39
+39
+vinhtho_lib
+ESP-201
+Module, ESP-8266, ESP-201, 26 pin, through hole, 0.1 inch
+Module ESP-8266 ESP8266
+0
+26
+26
+vinhtho_lib
+ESP-UNO-SH
+
+
+0
+32
+32
+vinhtho_lib
+ESP-WROOM-32
+
+
+0
+55
+38
+vinhtho_lib
+ESP32
+
+
+0
+49
+49
+vinhtho_lib
+ESP32-WROOM
+
+
+0
+39
+39
+vinhtho_lib
+ESP3212
+
+
+0
+31
+31
+vinhtho_lib
+FB0805x034M
+FerritBead SMD 0805, hand soldering
+FerritBead 0805
+0
+2
+2
+vinhtho_lib
+FR232RQ
+QFN-32 PACKAGE (5MM X 5MM)
+QFN-32 PACKAGE (5MM X 5MM)
+0
+32
+32
+vinhtho_lib
+Fuse_SMD1812
+Fuse, 2920 chip size
+Fuse SMD2920
+0
+2
+2
+vinhtho_lib
+Fuse_SMD2920
+Fuse, 2920 chip size
+Fuse SMD2920
+0
+2
+2
+vinhtho_lib
+Fuseholder5x20_horiz_SemiClosed_Casing10x25mm
+Fuseholder, 5x20, Semi closed, horizontal, Casing 10x25mm,
+Fuseholder 5x20 Semi closed horizontal Casing 10x25mm Sicherungshalter halbgeschlossen 
+0
+2
+2
+vinhtho_lib
+Fuseholder5x20_horiz_open_inline_Type-I
+Fuseholder, 5x20, open, horizontal, Type-I, Inline,
+Fuseholder, 5x20, open, horizontal, Type-I, Inline, Sicherungshalter, offen,
 0
 4
 2
-Capacitors_SMD
-C_0402_1005Metric
-Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitors_SMD
-C_0603_1608Metric
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitors_SMD
-C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitors_SMD
-C_0805_2012Metric
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitors_SMD
-C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitors_SMD
-C_01005_0402Metric
-Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Fuseholder5x20_horiz_open_lateral_Type-II
+Fuseholder, 5x20, open, horizontal, Type-II, lateral,
+Fuseholder, 5x20, open, horizontal, Type-II, lateral, Sicherungshalter, offen,
 0
 4
 2
-Capacitors_SMD
-C_1206_3216Metric
-Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+HDRV3W64_1X3_762X254X1154
+
+
+0
+3
+3
+vinhtho_lib
+HDRV4W64_1X4_1016X254X1154
+
+
+0
+4
+4
+vinhtho_lib
+HDRV8W64_1X8_2032X254X1154
+
+
+0
+8
+8
+vinhtho_lib
+HDRV10W64P254_2X5_1270X254X115P
+
+
+0
+10
+10
+vinhtho_lib
+HDRV10W64_1X10_2540X254X1154
+
+
+0
+10
+10
+vinhtho_lib
+HDRV12W64_1X12_3048X254X1154
+
+
+0
+12
+12
+vinhtho_lib
+HDRV14W64_1X14_3556X254X1154
+
+
+0
+14
+14
+vinhtho_lib
+HDRV16W64_1X16_4046X254X1154
+
+
+0
+16
+16
+vinhtho_lib
+HDRV40W64P254_2X20_2540X254X115P
+
+
+0
+40
+40
+vinhtho_lib
+HR911102A
+
+HR911102A
+0
+16
+16
+vinhtho_lib
+HR911105A
+
+HR911102A
+0
+16
+16
+vinhtho_lib
+HS0038A2
+
+
+0
+3
+3
+vinhtho_lib
+Header-2pin-2.54-white
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
 0
 2
 2
-Capacitors_SMD
-C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+Header-3pin-2.54
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+vinhtho_lib
+Header-4pin-2.54
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+vinhtho_lib
+Header-4pin-2.54W
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+vinhtho_lib
+Header-5pin-2.54
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+vinhtho_lib
+Header-6pin-2.54
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+6
+6
+vinhtho_lib
+Header-6pin-2.54-white
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+6
+6
+vinhtho_lib
+Hole-8mm
+
+
+0
+1
+1
+vinhtho_lib
+IDC_Header_Angled_16pins
+16 pins through hole IDC header
+IDC header socket VASCH
+0
+16
+16
+vinhtho_lib
+IDC_Header_Straight_16pins
+16 pins through hole IDC header
+IDC header socket VASCH
+0
+16
+16
+vinhtho_lib
+INDC5050X24M
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-5050, 5.0mmx5.0mm, Most
+inductor taiyo-yuden md smd
 0
 2
 2
-Capacitors_SMD
-C_1210_3225Metric
-Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+INDC5050X24N
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-5050, 5.0mmx5.0mm, Nomal
+inductor taiyo-yuden md smd
 0
 2
 2
-Capacitors_SMD
-C_1210_3225Metric_Pad1.42x2.65mm_HandSolder
-Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+Inductor_5.2x5.8x4.5
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-80xx, 8.0mmx8.0mm
+inductor taiyo-yuden nr smd
 0
 2
 2
-Capacitors_SMD
-C_1806_4516Metric
-Capacitor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Inductor_5A
+
+
 0
 2
 2
-Capacitors_SMD
-C_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Capacitor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+JACK_DC
+DC Barrel Jack
+Power Jack
+0
+3
+3
+vinhtho_lib
+JUMP
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm
 0
 2
 2
-Capacitors_SMD
-C_1812_4532Metric
-Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+KYX-1107BS
+
+
+0
+20
+20
+vinhtho_lib
+L181-5A
+
+
 0
 2
 2
-Capacitors_SMD
-C_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+LED-7SEG-50x70
+
+
+0
+10
+10
+vinhtho_lib
+LED-7SEG-23101BX
+
+
+0
+10
+10
+vinhtho_lib
+LED_0805_RGB
+LED 0805 smd package
+LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+4
+4
+vinhtho_lib
+LED_0805_RGB-bot
+LED 0805 smd package
+LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+5
+5
+vinhtho_lib
+LED_0805x024M
+LED 0805 smd package
+LED 0805 SMD
 0
 2
 2
-Capacitors_SMD
-C_1825_4564Metric
-Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+LED_PLCC_3528
+http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf
+LED
 0
 2
 2
-Capacitors_SMD
-C_1825_4564Metric_Pad1.88x6.70mm_HandSolder
-Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+LOGO_OSHW_FSilk_10mm
+
+
+0
+0
+0
+vinhtho_lib
+LOGO_STATIC_150
+
+
+0
+0
+0
+vinhtho_lib
+LOGO_STATIC_250
+
+
+0
+0
+0
+vinhtho_lib
+LQFP-32_7x7mm_Pitch0.8mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 7 x 7 x 1.4 mm (see NXP sot358-1_po.pdf and sot358-1_fr.pdf)
+QFP 0.8
+0
+32
+32
+vinhtho_lib
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+vinhtho_lib
+LQFP-64_10x10mm_Pitch0.5mm
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+vinhtho_lib
+LQFP-100_14x14mm_Pitch0.5mm
+LQFP100: plastic low profile quad flat package; 100 leads; body 14 x 14 x 1.4 mm (see NXP sot407-1_po.pdf and sot407-1_fr.pdf)
+QFP 0.5
+0
+100
+100
+vinhtho_lib
+L_
+SELF- WE-PD-XXL
+
 0
 2
 2
-Capacitors_SMD
-C_2010_5025Metric
-Capacitor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Logo_silk_CC-BY-NC-SA_10x3.6mm
+CC BY-NC-SA logo, 10x3.6mm
+
+0
+0
+0
+vinhtho_lib
+LoraRFM98-smd
+Through hole straight pin header, 1x08, 2.00mm pitch, single row
+Through hole pin header THT 1x08 2.00mm single row
+0
+16
+16
+vinhtho_lib
+LoraRFM98-thruhole
+Through hole straight pin header, 1x08, 2.00mm pitch, single row
+Through hole pin header THT 1x08 2.00mm single row
+0
+16
+16
+vinhtho_lib
+MOLEX_0731000114
+SMA Connector Receptacle, Female Socket 50 Ohm Through Hole, Right Angle Solder
+
+0
+5
+5
+vinhtho_lib
+MORNSUN-A2412S-2W
+
+
+0
+5
+5
+vinhtho_lib
+MORSUN_485
+
+
+0
+7
+7
+vinhtho_lib
+MP1584_buck_module
+
+
+0
+8
+4
+vinhtho_lib
+MQ-05
+
+
+0
+6
+6
+vinhtho_lib
+MT3608_module
+
+
+0
+4
+4
+vinhtho_lib
+MT3608_module_SMT
+
+
+0
+7
+4
+vinhtho_lib
+MicroSD_Push-Push-A
+
+
+0
+15
+12
+vinhtho_lib
+Module-MP1584
+
+
+0
+8
+8
+vinhtho_lib
+Module-RF-433Mhz
+
+
+0
+8
+8
+vinhtho_lib
+Mounting_hole_2.8mm
+
+
+0
+1
+1
+vinhtho_lib
+Mounting_hole_3.3mm
+
+
+0
+0
+0
+vinhtho_lib
+Myrra_44271
+
+
+0
+6
+6
+vinhtho_lib
+N95_battery_connector
+
+
+0
+3
+3
+vinhtho_lib
+NEON_LAMP
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
 0
 2
 2
-Capacitors_SMD
-C_2010_5025Metric_Pad1.52x2.65mm_HandSolder
-Capacitor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+NRF24L01
+
+
+0
+8
+8
+vinhtho_lib
+NodeMCU1.0(12-E)
+
+
+0
+30
+30
+vinhtho_lib
+OLED
+
+
+0
+0
+0
+vinhtho_lib
+Optocoupler_SMD
+Optocoupler, SMD,  Single Channel, Hand Soldering, like KPC357, LTV35x, PC357
+Optocoupler Single Channel KPC357 LTV35x PC357
+0
+4
+4
+vinhtho_lib
+Optocoupler_SMD_
+Optocoupler, SMD,  Single Channel, Hand Soldering, like KPC357, LTV35x, PC357
+Optocoupler Single Channel KPC357 LTV35x PC357
+0
+4
+4
+vinhtho_lib
+PAD-Circle
+
+
+0
+1
+1
+vinhtho_lib
+PAD_Rec
+
+
+0
+1
+1
+vinhtho_lib
+PIN-12V
+
+
 0
 2
 2
-Capacitors_SMD
-C_2220_5650Metric
-Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Pin2_Header_SMD_Pitch2.54mm
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
 0
 2
 2
-Capacitors_SMD
-C_2220_5650Metric_Pad1.97x5.40mm_HandSolder
-Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+PinSocket_1x12_P2.54mm
+Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x12 2.54mm single row
+0
+12
+12
+vinhtho_lib
+Pin_Header_Angled_1x02_Pitch2.54mm
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
 0
 2
 2
-Capacitors_SMD
-C_2225_5664Metric
-Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Pin_Header_Angled_1x02_Pitch2.54mm_mirro
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
 0
 2
 2
-Capacitors_SMD
-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
-Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+Pin_Header_SMD-Female_Pitch2.54mm
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+vinhtho_lib
+Pin_Header_SMD_Pitch2.54mm
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+vinhtho_lib
+Pin_Header_Straight_1x04_Pitch2.54mm
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+vinhtho_lib
+Pin_Header_Straight_1x08_Pitch2.54mm
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+vinhtho_lib
+Pin_Header_Straight_1x10_Pitch2.54mm
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+vinhtho_lib
+Pin_Header_Straight_1x14_Pitch2.00mm
+Through hole straight pin header, 1x14, 2.00mm pitch, single row
+Through hole pin header THT 1x14 2.00mm single row
+0
+14
+14
+vinhtho_lib
+Pin_Header_Straight_2x04_Pitch2.00mm
+Through hole straight pin header, 2x04, 2.00mm pitch, double rows
+Through hole pin header THT 2x04 2.00mm double row
+0
+8
+8
+vinhtho_lib
+Pin_Header_Straight_2x08_Pitch2.00mm
+Through hole straight pin header, 2x08, 2.00mm pitch, double rows
+Through hole pin header THT 2x08 2.00mm double row
+0
+16
+16
+vinhtho_lib
+Pin_Header_Straight_2x10_Pitch2.00mm
+Through hole straight pin header, 2x10, 2.00mm pitch, double rows
+Through hole pin header THT 2x10 2.00mm double row
+0
+20
+20
+vinhtho_lib
+Pulse_Transformer_EI28
+Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,
+Trafo Printtrafo CHK EI30 2VA 1x Sec 
+0
+10
+10
+vinhtho_lib
+QFN-32-1EP_5x5mm_Pitch0.5mm
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+36
+33
+vinhtho_lib
+RELAY-HK4100
+
+
+0
+6
+5
+vinhtho_lib
+RESC0603x018M
+Resistor SMD 0603, hand soldering
+resistor 0603
 0
 2
 2
-Capacitors_SMD
-C_2512_6332Metric
-Capacitor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+RESC0805x024M
+Resistor SMD 0805, hand soldering
+resistor 0805
 0
 2
 2
-Capacitors_SMD
-C_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-Capacitor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+RF433-H5V3M
+
+
+0
+6
+6
+vinhtho_lib
+RF433-H34A
+
+
+0
+4
+4
+vinhtho_lib
+RF_RX_LearnCode
+
+
+0
+8
+8
+vinhtho_lib
+RF_YKTR-5S
+
+
+0
+4
+4
+vinhtho_lib
+RJ45_8
+
+RJ45
+0
+12
+10
+vinhtho_lib
+R_2W
+Resistor, Axial_DIN0617 series, Axial, Vertical, pin pitch=5.08mm, 2W, length*diameter=17*6mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf
+Resistor Axial_DIN0617 series Axial Vertical pin pitch 5.08mm 2W length 17mm diameter 6mm
 0
 2
 2
-Capacitors_SMD
-C_2816_7142Metric
-Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
 0
 2
 2
-Capacitors_SMD
-C_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+R_Shunt_10mR
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.16666666666666666W = 1/6W length 3.6mm diameter 1.6mm
 0
 2
 2
-Capacitors_SMD
-C_3640_9110Metric
-Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor
+vinhtho_lib
+Relay-SMI-24VDC-SL-1C
+
+
+0
+5
+5
+vinhtho_lib
+Relay-SMI-24VDC-SL-2C
+
+
+0
+8
+8
+vinhtho_lib
+Relay_SRD-SONGLE
+relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+relay Sanyu SRD form C
+0
+5
+5
+vinhtho_lib
+SHT20
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+7
+7
+vinhtho_lib
+SI-4463-UART
+
+
+0
+5
+5
+vinhtho_lib
+SI4463-SPI
+
+
+0
+12
+12
+vinhtho_lib
+SI4463-SPI-SMD
+
+
+0
+14
+14
+vinhtho_lib
+SI4463-SPI-SMD-type2
+
+
+0
+16
+14
+vinhtho_lib
+SIM5320E
+
+
+0
+81
+80
+vinhtho_lib
+SIP3_11.6x8.5mm
+RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+SIP3 Regulator Module
+0
+3
+3
+vinhtho_lib
+SLA-24VDC-SL-C
+
+
+0
+6
+6
+vinhtho_lib
+SM5852
+
+
+0
+8
+8
+vinhtho_lib
+SMD_BUZZER_9633
+
+
 0
 2
 2
-Capacitors_SMD
-C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
-Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
+vinhtho_lib
+SOD-80
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_3x5.4
-SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+vinhtho_lib
+SOIC-16W_5.3x10.2mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)
+SOIC 1.27
+0
+16
+16
+vinhtho_lib
+SOIC-18W_7.5x11.6mm_Pitch1.27mm
+18-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+18
+18
+vinhtho_lib
+SOIC-20W_7.5x12.8mm_Pitch1.27mm
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+20
+20
+vinhtho_lib
+SOIC127P600x155-8-M
+SO-8
+SO-8
+0
+8
+8
+vinhtho_lib
+SOP127P600x155-8-M
+SO-8
+SO-8
+0
+8
+8
+vinhtho_lib
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+vinhtho_lib
+SOT-23-5
+
+
+0
+5
+5
+vinhtho_lib
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+vinhtho_lib
+SOT-23-6
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+vinhtho_lib
+SOT-23-6_Handsoldering
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+vinhtho_lib
+SOT-23W
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
+0
+3
+3
+vinhtho_lib
+SOT-23_standar
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+vinhtho_lib
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+vinhtho_lib
+SOT23-3-IRLML6401-M
+
+
+0
+3
+3
+vinhtho_lib
+SOT23-3-MMBT3904-M
+
+
+0
+3
+3
+vinhtho_lib
+SSOP-24_3.9x8.7mm_Pitch0.635mm
+SSOP24: plastic shrink small outline package; 24 leads; body width 3.9 mm; lead pitch 0.635; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot556-1_po.pdf)
+SSOP 0.635
+0
+24
+24
+vinhtho_lib
+ST7920
+STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
+AG12864E Graphics Display 128x64 Ampire
+0
+24
+20
+vinhtho_lib
+SW
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_4x5.4
-SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SW-8-3-state
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+10
+10
+vinhtho_lib
+SW-T1107A(6x3,8x2,5MM)
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_4x5.8
-SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.8mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SW_8mm
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_5x5.4
-SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.4mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SW_10mm
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_5x5.8
-SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+vinhtho_lib
+SW_PUSH_SMALL
+
+
+0
+4
+2
+vinhtho_lib
+SW_SPST_EVPBF
+Light Touch Switch
+
+0
+4
+2
+vinhtho_lib
+SW_SPST_FSMSM
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
 0
 2
 2
-Capacitors_SMD
-C_Elec_6.3x5.4
-SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+SW_TS-6262
+Light Touch Switch
+
+0
+4
+2
+vinhtho_lib
+TB6600
+
+
+0
+25
+25
+vinhtho_lib
+TESTPAD_40-ROUND
+
+
+0
+1
+1
+vinhtho_lib
+TFC-WPAPR-08
+OFFSET X-> -0.950MM
+OFFSET X-> -0.950MM
+0
+15
+15
+vinhtho_lib
+TNY268
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+7
+4
+vinhtho_lib
+TO-92_Molded_Wide
+TO-92 leads molded, wide, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+vinhtho_lib
+TO-252-2
+TO-252-2
+TO-252-2 Rectifier
+0
+28
+3
+vinhtho_lib
+TO-263-2Lead
+D2PAK / TO-263 3-lead smd package
+D2PAK D2PAK-3 TO-263AB TO-263
+0
+3
+3
+vinhtho_lib
+TO-263-3Lead
+D2PAK / TO-263 3-lead smd package
+D2PAK D2PAK-3 TO-263AB TO-263
+0
+4
+3
+vinhtho_lib
+TSOT-23
+3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf
+TSOT-23
+0
+3
+3
+vinhtho_lib
+TSSOP-20_4.4x6.5mm_Pitch0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+vinhtho_lib
+TSSOP1738
+RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+SIP3 Regulator Module
+0
+3
+3
+vinhtho_lib
+TSSOP1838
+RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+SIP3 Regulator Module
+0
+3
+3
+vinhtho_lib
+Tact_Switch_TS6X3.6
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
 0
 2
 2
-Capacitors_SMD
-C_Elec_6.3x5.8
-SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+Terminal-2P-9.5mm
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_6.3x7.7
-SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+Terminal-3.81-2pin
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_8x5.4
-SMD capacitor, aluminum electrolytic nonpolar, 8.0x5.4mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+Terminal-3.81-4pin
+
+
+0
+4
+4
+vinhtho_lib
+Terminal-3.81-6pin
+
+
+0
+6
+6
+vinhtho_lib
+Terminal-3.81-8pin
+
+
+0
+8
+8
+vinhtho_lib
+Terminal-3.81-10pin
+
+
+0
+10
+10
+vinhtho_lib
+Terminal2-7.62
+
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_8x6.2
-SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+Terminal4-7.62
+
+
+0
+4
+4
+vinhtho_lib
+TerminalBlock-WAGO-3P
+
+
+0
+6
+3
+vinhtho_lib
+TerminalBlock-WAGO-6P
+
+
+0
+12
+6
+vinhtho_lib
+TerminalBlock_Pheonix_PT-3.81mm_2pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_8x10.2
-SMD capacitor, aluminum electrolytic nonpolar, 8.0x10.2mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+TerminalBlock_Pheonix_PT-3.81mm_4pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+4
+4
+vinhtho_lib
+TerminalBlock_Pheonix_PT-3.81mm_8pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+8
+8
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_2pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
 0
 2
 2
-Capacitors_SMD
-C_Elec_10x10.2
-SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
-capacitor electrolyic nonpolar
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_3pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+3
+3
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_4pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+4
+4
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_8pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+8
+8
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_13pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+13
+13
+vinhtho_lib
+TerminalBlock_Pheonix_PT-5.08mm_16pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+16
+16
+vinhtho_lib
+TerminalBlock_WAGO-236_2Stift_R5mm_2pol
+WAGO-Series 236, 2Stift, 4pol, RM 5mm,
+WAGO-Series 236, 2Stift, 4pol, RM 5mm, Anreibare Leiterplattenklemme
+0
+4
+2
+vinhtho_lib
+TerminalBlock_WAGO-236_2Stift_R5mm_4pol
+WAGO-Series 236, 2Stift, 4pol, RM 5mm,
+WAGO-Series 236, 2Stift, 4pol, RM 5mm, Anreibare Leiterplattenklemme
+0
+8
+4
+vinhtho_lib
+TerminalBlock_WAGO-236_2Stift_R5mm_10pol
+WAGO-Series 236, 2Stift, 4pol, RM 5mm,
+WAGO-Series 236, 2Stift, 4pol, RM 5mm, Anreibare Leiterplattenklemme
+0
+20
+10
+vinhtho_lib
+TerminalBlock_WAGO_2.54mm_2P
+
+
+0
+4
+2
+vinhtho_lib
+TerminalBlock_WAGO_2.54mm_3P
+
+
+0
+6
+3
+vinhtho_lib
+TerminalBlock_WAGO_2.54mm_6P
+
+
+0
+12
+6
+vinhtho_lib
+Terminal_Block_2Pin_3.81_Straight_Screw
+
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZB4-A
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZB4 TZB4-A
+vinhtho_lib
+Terminal_Block_3Pin_3.81_Straight_Screw
+
+
+0
+3
+3
+vinhtho_lib
+Terminal_Block_4Pin_3.81_Straight_Screw
+
+
+0
+4
+4
+vinhtho_lib
+Terminal_Block_10Pin_3.81_Straight_Screw
+
+
+0
+10
+10
+vinhtho_lib
+Touch_Circle
+
+
+0
+3
+2
+vinhtho_lib
+Touch_square
+
+
+0
+3
+2
+vinhtho_lib
+Transformer_Breve_TEZ-30x25
+http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
+TEZ PCB Transformer
+0
+5
+5
+vinhtho_lib
+USB-MICRO-5P-4H-F
+
+
+0
+11
+7
+vinhtho_lib
+USB_A_H_PTH
+
+
+0
+6
+5
+vinhtho_lib
+USB_A_VERTICAL_PTH
+
+
+0
+8
+5
+vinhtho_lib
+USB_Micro-B
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+9
+6
+vinhtho_lib
+USB_Micro-B-1
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+9
+6
+vinhtho_lib
+USB_Micro-B_DGK609-4048-1-ND
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+11
+6
+vinhtho_lib
+VIA
+
+
+0
+1
+1
+vinhtho_lib
+VR-3362P
+
+
+0
+3
+3
+vinhtho_lib
+VR1
+
+varistor SIOV
+0
+3
+3
+vinhtho_lib
+Varesistor Bourns
+
+
+0
+3
+3
+vinhtho_lib
+Via_0309mm
+
+
+0
+1
+1
+vinhtho_lib
+Via_1018mm
+
+
+0
+1
+1
+vinhtho_lib
+Vit-3mm
+
+
+0
+1
+1
+vinhtho_lib
+Vit-4mm
+
+
+0
+1
+1
+vinhtho_lib
+WSOF6I
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+vinhtho_lib
+XL6009_module
+
+
+0
+4
+4
+vinhtho_lib
+XL6009_module_SMT
+
+
+0
+7
+4
+vinhtho_lib
+bluetooth-HC-05
+TSSOP32: plastic thin shrink small outline package; 32 leads; body width 6.1 mm; lead pitch 0.65 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot487-1_po.pdf)
+SSOP 0.65
+0
+34
+34
+vinhtho_lib
+button-pcb-10mm
+
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZB4-B
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZB4 TZB4-A
+vinhtho_lib
+button_TS-6601V-6
+
+
+0
+4
+3
+vinhtho_lib
+do214aa-g
+DO214AA
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZC3
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZC3
+vinhtho_lib
+esp32-wrover
+
+
+0
+38
+38
+vinhtho_lib
+esp32-wrover-32S
+
+
+0
+48
+38
+vinhtho_lib
+jump-supply
+
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZR1
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZR1
+vinhtho_lib
+led3528
+
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZW4
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZW4
+vinhtho_lib
+logo
+
+
+0
+0
+0
+vinhtho_lib
+logo2
+
+
+0
+0
+0
+vinhtho_lib
+logo3
+
+
+0
+0
+0
+vinhtho_lib
+marking
+
+
+0
+1
+0
+vinhtho_lib
+matrix-1088AS-32x32
+http://www.world-semi.com/en/Driver/Lighting/WS2811/WS212B/WS2822S/, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLX6AFKB.pdf
+LED RGB PLCC-6
+0
+16
+16
+vinhtho_lib
+matrix-1588AUR-38x38
+
+
+0
+18
+18
+vinhtho_lib
+matrix_8x8_1088AS_32x32mm
+http://www.world-semi.com/en/Driver/Lighting/WS2811/WS212B/WS2822S/, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLX6AFKB.pdf
+LED RGB PLCC-6
+0
+16
+16
+vinhtho_lib
+nRF24L01-Mini
+
+
+0
+8
+8
+vinhtho_lib
+pad_2pol
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
 0
 2
 2
-Capacitors_SMD
-C_Trimmer_Murata_TZY2
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZY2
+vinhtho_lib
+socket_sim_6p
+
+
 0
-2
-2
-Capacitors_SMD
-C_Trimmer_Sprague-Goodman_SGC3
-trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
- Sprague Goodman SGC3
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JN
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JN
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JQ
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JQ
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JR
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JR
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JV
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JV
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JZ
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JR
-0
-2
-2
+10
+7

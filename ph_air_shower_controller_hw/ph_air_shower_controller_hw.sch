@@ -4638,7 +4638,7 @@ U 1 1 6DAE8959
 P 7320 4815
 F 0 "SW1" H 7320 5008 50  0000 C CNN
 F 1 "Button_TL3342_5.2x5.2" H 7320 5009 50  0001 C CNN
-F 2 "ph_kicad_lib:BUTTON_TL3342" H 7320 5015 50  0001 C CNN
+F 2 "vinhtho_lib:Button_SW_2PIN" H 7320 5015 50  0001 C CNN
 F 3 "" H 7320 5015 50  0001 C CNN
 F 4 "5.2x5.2MM, H=1.5MM, Waterproof Tact Switch" H 7320 4815 50  0001 C CNN "Desc"
 F 5 "https://thegioiic.com/products/nut-nhan-4x4-cao-1-5mm-4pin-smd-chong-nuoc" H 7320 4815 50  0001 C CNN "Link"
