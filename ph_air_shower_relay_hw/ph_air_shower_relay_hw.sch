@@ -1,12 +1,20 @@
 EESchema Schematic File Version 4
+<<<<<<< HEAD
 LIBS:ph_air_shower_relay_hw-cache
 EELAYER 29 0
+=======
+EELAYER 30 0
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
+<<<<<<< HEAD
 Date "12/09/2019"
+=======
+Date ""
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 Rev ""
 Comp ""
 Comment1 ""
@@ -14,6 +22,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+<<<<<<< HEAD
 $Comp
 L Connector_Generic:Conn_01x02 J2
 U 1 1 5D9C8338
@@ -869,4 +878,6 @@ F 3 "" H 4375 5725 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4475 5725 4375 5725
+=======
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 $EndSCHEMATC

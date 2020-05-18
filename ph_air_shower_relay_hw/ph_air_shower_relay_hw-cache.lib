@@ -1,6 +1,7 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+<<<<<<< HEAD
 # Connector_Generic_Conn_01x02
 #
 DEF Connector_Generic_Conn_01x02 J 0 40 Y N 1 F N
@@ -294,4 +295,6 @@ X ~ A2 -200 -300 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+=======
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 #End Library

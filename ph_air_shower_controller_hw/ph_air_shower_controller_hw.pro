@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 update=16/03/2020 11:44:42
+=======
+update=04/04/2020 11:37:24
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 version=1
 last_client=kicad
 [cvpcb]
@@ -9,10 +13,23 @@ version=1
 [eeschema]
 version=1
 LibDir=
+<<<<<<< HEAD
+=======
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=documents/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
+>>>>>>> 778792495c2e68a478889db751f689d18d0be40d
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ph_main_atsh_hw.net
+LastNetListRead=ph_air_shower_controller_hw.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -30,8 +47,9 @@ TrackWidth2=0.3
 TrackWidth3=0.5
 TrackWidth4=0.7
 TrackWidth5=1
-ViaDiameter1=0.8
-ViaDrill1=0.4
+TrackWidth6=1.5
+ViaDiameter1=1
+ViaDrill1=0.5
 ViaDiameter2=1
 ViaDrill2=0.5
 dPairWidth1=0.2
@@ -235,8 +253,8 @@ Enabled=0
 Name=Default
 Clearance=0.2
 TrackWidth=0.25
-ViaDiameter=0.8
-ViaDrill=0.4
+ViaDiameter=1
+ViaDrill=0.5
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
