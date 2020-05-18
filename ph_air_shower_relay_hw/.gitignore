@@ -1,0 +1,7 @@
+/fp-info-cache
+/sym-lib-table
+ph_air_shower_relay_hw/
+*.sch-bak
+*.bak
+*.kicad_pcb-bak
+*.dcm

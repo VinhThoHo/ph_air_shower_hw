@@ -1,0 +1,7 @@
+/fp-info-cache
+/sym-lib-table
+gerber_ph_air_shower_controller_hw/
+*.sch-bak
+*.bak
+*.kicad_pcb-bak
+*.dcm
